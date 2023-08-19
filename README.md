@@ -2,7 +2,7 @@
 
 Wanderlust is a web application designed for travelers. It streamlines the process of selecting and purchasing comprehensive travel packages, connecting travelers to ideal flight, accommodation, and activity options. With a rich and responsive UI, Wanderlust caters to both individual travelers and travel service providers.
 
-![Wanderlust Screenshot](URL_TO_SCREENSHOT)
+![Wanderlust Screenshot]([URL_TO_SCREENSHOT](https://freeimage.host/i/Hbq23qg))
 
 ## Features
 
@@ -71,4 +71,4 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact
-Feel free to reach out to me at lucas.aonzo@example.com if you have any questions or feedback.
+Feel free to reach out to me at lucasaonzo@gmail.com if you have any questions or feedback.
