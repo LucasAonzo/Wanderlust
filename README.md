@@ -40,27 +40,29 @@ Wanderlust is a web application designed for travelers. It streamlines the proce
 ### Installation
 
 1. Clone the repository:
+    ```bash
+    git clone https://github.com/LucasAonzo/Wanderlust.git
+    cd Wanderlust
+    ```
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
+3. Set up environment variables:
 
-```bash
-git clone https://github.com/LucasAonzo/Wanderlust.git
-cd Wanderlust
-Install the dependencies:
-bash
-Copy code
-npm install
-Set up environment variables:
-Create a .env file in the root directory and configure the following variables:
+    Create a `.env` file in the root directory and configure the following variables:
 
-env
-Copy code
-FIREBASE_API_KEY=YOUR_FIREBASE_API_KEY
-CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY
-PAYPAL_CLIENT_ID=YOUR_PAYPAL_CLIENT_ID
-Start the development server:
-bash
-Copy code
-npm start
-The application will be available at http://localhost:3000.
+    ```env
+    FIREBASE_API_KEY=YOUR_FIREBASE_API_KEY
+    CLOUDINARY_API_KEY=YOUR_CLOUDINARY_API_KEY
+    PAYPAL_CLIENT_ID=YOUR_PAYPAL_CLIENT_ID
+    ```
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+
+    The application will be available at `http://localhost:3000`.
 
 Contributing
 We welcome contributions! Please see our contributing guide for more details.
