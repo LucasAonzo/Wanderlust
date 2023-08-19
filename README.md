@@ -2,7 +2,8 @@
 
 Wanderlust is a web application designed for travelers. It streamlines the process of selecting and purchasing comprehensive travel packages, connecting travelers to ideal flight, accommodation, and activity options. With a rich and responsive UI, Wanderlust caters to both individual travelers and travel service providers.
 
-![Wanderlust Screenshot]([URL_TO_SCREENSHOT](https://freeimage.host/i/Hbq23qg))
+![Wanderlust Screenshot](https://iili.io/Hbq23qg.jpg)
+
 
 ## Features
 
